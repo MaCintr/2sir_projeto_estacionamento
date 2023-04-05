@@ -1,0 +1,195 @@
+[20:54] Guilherme Lima Oliveira
+
+
+
+
+Sistema para registrar mensalistas;
+
+Sistema para controlar entrada/saida de carros por placa;
+
+Sistema que mostrar quantidade de vagas disponíveis;
+
+Sistema que permita que o usuário pague mensalidades futuras;
+
+
+
+
+
+
+
+[20:54] RAPHAELA SURMEJAN AROZENA
+
+
+
+
+estacionamento
+
+sistema de guiche 
+
+bilhete entrada/saida
+
+sensor de reconhecimento de presença de veículo nas vagas
+
+mostrador do número de vagas livre a cada pavimento
+
+cadastro mensalistas
+
+
+
+
+
+
+
+[20:54] Abner Aragon
+
+
+
+
+ 
+
+Bilhete para acesso e controle de entrada e saída, e vincular o bilhete ao carro.
+Cartão de preferencial na ideia de demarcar os prioritários dentro do estacionamento
+Toten para pagamento, na ideia de agilizar o pagamento e diminuir as filas de pagamento.
+Cancela para bloquear a entrada e saída sem o depósito ou coleta do bilhete
+Funcionário de segurança para acompanhar e assegurar que não aconteça nenhuma depreciação dos equipamentos.
+Bilhetes fixos de mensalistas, com benefícios e melhores vagas e preços.
+
+
+
+
+
+
+[20:54] João Vítor Guimarães Douverny
+
+
+
+
+Suporte: um bom contato com o cliente é a chave, informações bem escritas e com educação, respostas esclarecedoras no caso de duvidas ao suporte.
+
+
+
+
+
+
+
+[20:56] Gustavo Campos Rosa
+
+
+
+
+deu ruim ai prof?
+
+
+
+
+
+
+
+[20:57] Renato Jardim Parducci
+
+
+
+
+Funções desejadas no sistema (o que deve permitir fazer):
+
+-Cadastrar/registrar a entrada de veículos com detalhes de placa, marca, modelo
+
+-Gerar ticket/comprovante de estacionamento para o dono do veículo na entrada
+
+-Cobrar a estadia, no momento da retirada do veículo pelo dono, mediante apresentação do ticket de estacionamento
+
+-Integrar com meios de pagamento PIX, Cartão de crédito, Cartão de Débito e TAG (RFID de serviço de cancela automática/free pass)
+
+-Registrar a saída de veículos
+
+-Mapear vagas disponíveis para estacionar (quantas vagas livres existem e quantas estão ocupadas), com uso de sensores de presença de veículos nas vagas
+
+-Cadastrar tarifas por dias e horários de estacionamento avulso
+
+-Cadastrar preço de mensalista
+
+-Cadastrar donos de veículos
+
+-Definir descontos de programa de fidelidade dos clientes
+
+-Gerar nota fiscal de serviço após o pagamento
+
+-Registrar situação (avarias) do veículo na entrada e na saída
+
+-Possibilitar consulta prévia de vagas disponíveis pelo cliente do estacionamento
+
+-Controle de violação de regras de estacionamento
+
+-Mecanismo de sinalização que orienta o motorista a estacionar em uma vaga disponível
+
+-Relatório de taxa de ocupação do estacionamento
+
+-Consulta de ocupação no momento
+
+-Relatório de faturamento
+
+-Controle de abertura e fechamento automático de cancela
+
+-Fotografar ou filmar a imagem do veículo na entrada e saída, guardando streaming no software
+
+
+
+
+
+
+
+[21:01] Renato Jardim Parducci
+
+
+
+
+Brainstorm CONSOLIDADO do Sistema de Gerenciamento de Estacionamento
+
+Funções desejadas no sistema (o que deve permitir fazer):
+
+-Cadastrar/registrar a entrada de veículos com detalhes de placa, marca, modelo
+
+-Gerar ticket/comprovante de estacionamento para o dono do veículo na entrada
+
+-Cobrar a estadia, no momento da retirada do veículo pelo dono, mediante apresentação do ticket de estacionamento
+
+-Integrar com meios de pagamento PIX, Cartão de crédito, Cartão de Débito e TAG (RFID de serviço de cancela automática/free pass)
+
+-Registrar a saída de veículos
+
+-Mapear vagas disponíveis para estacionar (quantas vagas livres existem e quantas estão ocupadas), com uso de sensores de presença de veículos nas vagas
+
+-Cadastrar tarifas por dias e horários de estacionamento avulso
+
+-Cadastrar preço de mensalista
+
+-Cadastrar donos de veículos
+
+-Definir descontos de programa de fidelidade dos clientes
+
+-Gerar nota fiscal de serviço após o pagamento
+
+-Registrar situação (avarias) do veículo na entrada e na saída
+
+-Possibilitar consulta prévia de vagas disponíveis pelo cliente do estacionamento
+
+-Controle de violação de regras de estacionamento
+
+-Mecanismo de sinalização que orienta o motorista a estacionar em uma vaga disponível
+
+-Relatório de taxa de ocupação do estacionamento
+
+-Consulta de ocupação no momento
+
+-Relatório de faturamento
+
+-Controle de abertura e fechamento automático de cancela
+
+-Fotografar ou filmar a imagem do veículo na entrada e saída, guardando streaming no software
+
+-Controle de vagas preferenciais por tipo 
+
+
+
+
+
